@@ -13,4 +13,4 @@ Botão B no pino GPIO 6.
 
 discente: Greique - Greique
 
-link do video - https://drive.google.com/file/d/1vqWDhwZsxZs0ahxa03usXDBfuZUmkYA4/view?usp=sharing
+link do video - https://drive.google.com/file/d/1DAQPU7wPFXgOFW4ufdSMrCo1EKDfYzV-/view?usp=sharing
